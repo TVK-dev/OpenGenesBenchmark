@@ -1,0 +1,330 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Supplemental file for the paper by Jin et al",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.81519341468811,
+          48.14225694537163
+        ],
+        [
+          414.3368511199951,
+          46.94694444537163
+        ],
+        [
+          414.3368511199951,
+          66.9540023803711
+        ],
+        [
+          48.81519341468811,
+          67.77753004431725
+        ]
+      ]
+    },
+    {
+      "title": "Description of data on Supplemental figure 1",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.867640256881714,
+          58.39398676156998
+        ],
+        [
+          273.0637993812561,
+          58.39398676156998
+        ],
+        [
+          272.0520324707031,
+          71.76498591899872
+        ],
+        [
+          47.320765256881714,
+          71.76498591899872
+        ]
+      ]
+    },
+    {
+      "title": "C/EBP and C/EBP\u03b2 bind to and activate the mouse SIRT1 promoters.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.92686128616333,
+          86.38325142860413
+        ],
+        [
+          394.64643716812134,
+          86.38325142860413
+        ],
+        [
+          394.2587890625,
+          100.31746244430542
+        ],
+        [
+          47.37998628616333,
+          100.31746244430542
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          415.7611298561096,
+          47.3955240547657
+        ],
+        [
+          533.0553059577942,
+          47.3955240547657
+        ],
+        [
+          533.0553059577942,
+          59.400438755750656
+        ],
+        [
+          415.7611298561096,
+          59.400438755750656
+        ]
+      ]
+    },
+    {
+      "title": "Description of supplemental figure\n2",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          418.5974135398865,
+          198.96472299098969
+        ],
+        [
+          602.6396613121033,
+          198.96472299098969
+        ],
+        [
+          602.6396613121033,
+          210.80363523960114
+        ],
+        [
+          418.5974135398865,
+          210.80363523960114
+        ]
+      ]
+    },
+    {
+      "title": "Experimental procedures",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          45.237797141075134,
+          47.13624268770218
+        ],
+        [
+          253.4205780029297,
+          47.13624268770218
+        ],
+        [
+          253.4205780029297,
+          67.86753505468369
+        ],
+        [
+          45.237797141075134,
+          67.86753505468369
+        ]
+      ]
+    },
+    {
+      "title": "Reference for supplemental materials:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          84.6544314622879,
+          70.27566495537758
+        ],
+        [
+          325.0030822753906,
+          70.27566495537758
+        ],
+        [
+          325.0030822753906,
+          86.0998764038086
+        ],
+        [
+          83.1075564622879,
+          86.0998764038086
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          508
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1975,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          563
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          904
+        ],
+        [
+          "Line",
+          161
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          974
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/supp_1_NIHMS338800-supplement-Supplemental_Figures_and_Experimental_Approach"
+}

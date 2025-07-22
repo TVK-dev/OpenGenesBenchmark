@@ -1,0 +1,1311 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Sex Differences in Genetic Associations With Longevity",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.57992565631866,
+          281.7200021147728
+        ],
+        [
+          553.0532412528992,
+          281.7200021147728
+        ],
+        [
+          553.0532412528992,
+          300.99774169921875
+        ],
+        [
+          72.57992565631866,
+          300.99774169921875
+        ]
+      ]
+    },
+    {
+      "title": "To cite this version:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.20276135206223,
+          394.35147219896317
+        ],
+        [
+          228.07614254951477,
+          394.35147219896317
+        ],
+        [
+          226.91208004951477,
+          409.713134765625
+        ],
+        [
+          70.03869885206223,
+          409.713134765625
+        ]
+      ]
+    },
+    {
+      "title": "HAL Id: hal-03480024\nhttps://cnrs.hal.science/hal-03480024v1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          156.14528262615204,
+          566.58001101017
+        ],
+        [
+          440.60646629333496,
+          566.58001101017
+        ],
+        [
+          439.44240379333496,
+          604.1416507959366
+        ],
+        [
+          154.98122012615204,
+          604.1416507959366
+        ]
+      ]
+    },
+    {
+      "title": "Original Investigation | Genetics and Genomics\nSex Differences in Genetic Associations With Longevity",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.04348814487457,
+          70.6442500948906
+        ],
+        [
+          461.6509094238281,
+          69.0973750948906
+        ],
+        [
+          461.6509094238281,
+          102.39540195465088
+        ],
+        [
+          47.04348814487457,
+          103.94227695465088
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.89419937133789,
+          188.11348700523376
+        ],
+        [
+          90.00433552265167,
+          186.56661200523376
+        ],
+        [
+          88.80902302265167,
+          199.14544677734375
+        ],
+        [
+          46.76166790723801,
+          199.7294476032257
+        ]
+      ]
+    },
+    {
+      "title": "Key Points",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          422.37819743156433,
+          188.32456076145172
+        ],
+        [
+          466.2664489746094,
+          186.77768576145172
+        ],
+        [
+          466.2664489746094,
+          199.968994140625
+        ],
+        [
+          422.37819743156433,
+          199.968994140625
+        ]
+      ]
+    },
+    {
+      "title": "+ Supplemental content",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          419.0740051269531,
+          554.9210357666016
+        ],
+        [
+          503.6620008945465,
+          554.9210357666016
+        ],
+        [
+          503.4630126953125,
+          570.8857421875
+        ],
+        [
+          418.22779870033264,
+          570.8857421875
+        ]
+      ]
+    },
+    {
+      "title": "Abstract (continued)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.70704197883606,
+          58.50602799654007
+        ],
+        [
+          106.8597446680069,
+          58.50602799654007
+        ],
+        [
+          106.8597446680069,
+          66.72809725999832
+        ],
+        [
+          47.70704197883606,
+          66.72809725999832
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.32721891999245,
+          169.710693359375
+        ],
+        [
+          108.06851756572723,
+          169.710693359375
+        ],
+        [
+          108.06851756572723,
+          180.6864013671875
+        ],
+        [
+          47.32721891999245,
+          180.6864013671875
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.89419937133789,
+          517.4422607421875
+        ],
+        [
+          90.48979187011719,
+          517.4422607421875
+        ],
+        [
+          90.48979187011719,
+          528.41796875
+        ],
+        [
+          46.72934836149216,
+          528.41796875
+        ]
+      ]
+    },
+    {
+      "title": "JAMA Network Open | Genetics and Genomics Sex Differences in Genetic Associations With Longevity",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.89419937133789,
+          34.71308550238609
+        ],
+        [
+          562.8929443359375,
+          34.71308550238609
+        ],
+        [
+          562.8929443359375,
+          43.555500358343124
+        ],
+        [
+          47.89419937133789,
+          43.555500358343124
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.379336923360825,
+          295.43280029296875
+        ],
+        [
+          82.78594970703125,
+          295.43280029296875
+        ],
+        [
+          82.78594970703125,
+          306.40850830078125
+        ],
+        [
+          47.379336923360825,
+          306.40850830078125
+        ]
+      ]
+    },
+    {
+      "title": "Analyses of Single SNPs",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.16587197780609,
+          316.3180847167969
+        ],
+        [
+          144.7829132080078,
+          316.3180847167969
+        ],
+        [
+          144.7829132080078,
+          325.852041721344
+        ],
+        [
+          47.16587197780609,
+          325.852041721344
+        ]
+      ]
+    },
+    {
+      "title": "JAMA Network Open | Genetics and Genomics Sex Differences in Genetic Associations With Longevity",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.13242161273956,
+          34.97747802734375
+        ],
+        [
+          562.8929443359375,
+          34.10092735290527
+        ],
+        [
+          562.8929443359375,
+          43.45880126953125
+        ],
+        [
+          47.13242161273956,
+          44.54856491088867
+        ]
+      ]
+    },
+    {
+      "title": "JAMA Network Open | Genetics and Genomics Sex Differences in Genetic Associations With Longevity",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.24139976501465,
+          34.97747802734375
+        ],
+        [
+          562.8929443359375,
+          33.71111360192299
+        ],
+        [
+          562.8929443359375,
+          43.45880126953125
+        ],
+        [
+          47.24139976501465,
+          44.549948662519455
+        ]
+      ]
+    },
+    {
+      "title": "Sex-Specific Pathway Analysis",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.19642689824104,
+          123.49407958984375
+        ],
+        [
+          170.7670135498047,
+          122.9499968290329
+        ],
+        [
+          170.7670135498047,
+          132.97320556640625
+        ],
+        [
+          47.19642689824104,
+          133.7555569410324
+        ]
+      ]
+    },
+    {
+      "title": "PRS Analyses to Assess Joint Effects of Groups of Sex-Specific Loci on Longevity",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.735421895980835,
+          253.20751953125
+        ],
+        [
+          374.65937304496765,
+          252.75056147575378
+        ],
+        [
+          373.46406054496765,
+          262.6866455078125
+        ],
+        [
+          46.540109395980835,
+          263.42710518836975
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.48768126964569,
+          606.744873046875
+        ],
+        [
+          98.63070863485336,
+          606.744873046875
+        ],
+        [
+          98.63070863485336,
+          617.7205657958984
+        ],
+        [
+          47.48768126964569,
+          618.3994417190552
+        ]
+      ]
+    },
+    {
+      "title": "Table 4. Polygenic Risk Score Analyses on the Joint Effects of Sex-Specific Loci's Association With Longevity",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          46.53646159172058,
+          228.95857787132263
+        ],
+        [
+          383.1026306152344,
+          228.95857787132263
+        ],
+        [
+          383.1026306152344,
+          236.96295166015625
+        ],
+        [
+          46.53646159172058,
+          236.96295166015625
+        ]
+      ]
+    },
+    {
+      "title": "JAMA Network Open | Genetics and Genomics Sex Differences in Genetic Associations With Longevity",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.89231872558594,
+          34.686711609363556
+        ],
+        [
+          562.8929443359375,
+          34.686711609363556
+        ],
+        [
+          562.8929443359375,
+          43.468890488147736
+        ],
+        [
+          47.89231872558594,
+          43.468890488147736
+        ]
+      ]
+    },
+    {
+      "title": "Limitations",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          47.55018639564514,
+          58.473307728767395
+        ],
+        [
+          94.84373152256012,
+          58.473307728767395
+        ],
+        [
+          94.84373152256012,
+          68.11663818359375
+        ],
+        [
+          47.55018639564514,
+          68.11663818359375
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          46.9476238489151,
+          191.66204833984375
+        ],
+        [
+          105.01173400878906,
+          191.66204833984375
+        ],
+        [
+          105.01173400878906,
+          202.63775634765625
+        ],
+        [
+          46.9476238489151,
+          202.63775634765625
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFORMATION",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          46.71319770812988,
+          57.77255702018738
+        ],
+        [
+          126.17533874511719,
+          57.77255702018738
+        ],
+        [
+          126.17533874511719,
+          66.4456787109375
+        ],
+        [
+          46.71319770812988,
+          66.4456787109375
+        ]
+      ]
+    },
+    {
+      "title": "JAMA Network Open | Genetics and Genomics Sex Differences in Genetic Associations With Longevity",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          47.82677203416824,
+          34.33810651302338
+        ],
+        [
+          562.8929443359375,
+          34.33810651302338
+        ],
+        [
+          562.8929443359375,
+          43.64860117435455
+        ],
+        [
+          47.82677203416824,
+          43.64860117435455
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          47.45787870883942,
+          350.31554317474365
+        ],
+        [
+          93.085717856884,
+          348.76866817474365
+        ],
+        [
+          91.890405356884,
+          358.8072814941406
+        ],
+        [
+          46.26256620883942,
+          359.1746220588684
+        ]
+      ]
+    },
+    {
+      "title": "JAMA Network Open | Genetics and Genomics Sex Differences in Genetic Associations With Longevity",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          47.6896510720253,
+          33.89458608627319
+        ],
+        [
+          562.8929443359375,
+          33.89458608627319
+        ],
+        [
+          562.8929443359375,
+          43.548233449459076
+        ],
+        [
+          47.6896510720253,
+          43.548233449459076
+        ]
+      ]
+    },
+    {
+      "title": "JAMA Network Open | Genetics and Genomics Sex Differences in Genetic Associations With Longevity",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          47.615609765052795,
+          33.87588921189308
+        ],
+        [
+          562.8929443359375,
+          33.87588921189308
+        ],
+        [
+          562.8929443359375,
+          43.67506358027458
+        ],
+        [
+          47.615609765052795,
+          43.67506358027458
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENT.",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          47.8941764831543,
+          399.2969284057617
+        ],
+        [
+          95.69482809305191,
+          397.7500534057617
+        ],
+        [
+          95.0035629272461,
+          407.6999816894531
+        ],
+        [
+          46.784193098545074,
+          408.4918842315674
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3954,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          235
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 625,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          243
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1297
+        ],
+        [
+          "TableCell",
+          487
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 8655,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1251
+        ],
+        [
+          "TableCell",
+          289
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 13232,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          533
+        ],
+        [
+          "TableCell",
+          320
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 10821,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          242
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          662
+        ],
+        [
+          "TableCell",
+          414
+        ],
+        [
+          "Line",
+          169
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 6456,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          22
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          26
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/10.1001_jamanetworkopen.2018.1670"
+}

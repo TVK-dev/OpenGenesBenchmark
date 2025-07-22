@@ -1,0 +1,384 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Contents :",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.0982940942049,
+          188.77072498202324
+        ],
+        [
+          150.42521357536316,
+          188.77072498202324
+        ],
+        [
+          149.42556762695312,
+          202.95455607771873
+        ],
+        [
+          88.9361847192049,
+          202.95455607771873
+        ]
+      ]
+    },
+    {
+      "title": "Figure S1",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          84.09303593635559,
+          503.409912109375
+        ],
+        [
+          135.50935471057892,
+          502.08681321144104
+        ],
+        [
+          135.50935471057892,
+          514.2098999023438
+        ],
+        [
+          84.09303593635559,
+          515.8365759849548
+        ]
+      ]
+    },
+    {
+      "title": "Figure S2. Increased fibrosis in serially injured Ku80 heterozygous and null \nmuscle.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          84.9599609375,
+          249.6774640083313
+        ],
+        [
+          512.9064331054688,
+          249.6774640083313
+        ],
+        [
+          512.9064331054688,
+          281.54201352596283
+        ],
+        [
+          84.11140203475952,
+          281.54201352596283
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary,Information,3\nDidier,et,al.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          84.69611537456512,
+          36.20184197276831
+        ],
+        [
+          238.51197636127472,
+          36.20184197276831
+        ],
+        [
+          238.51197636127472,
+          64.93949922919273
+        ],
+        [
+          84.69611537456512,
+          64.93949922919273
+        ]
+      ]
+    },
+    {
+      "title": "Figure S3. Quantification and verification of p53 and p21 in Ku80 +/+, +/-, and -/-\nmyoblasts and MEFs.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          84.31614673137665,
+          428.2289012670517
+        ],
+        [
+          511.5463562011719,
+          428.2289012670517
+        ],
+        [
+          511.5463562011719,
+          458.7698669433594
+        ],
+        [
+          84.31614673137665,
+          458.7698669433594
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary,Information 5\nDidier,et,al.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          84.45061534643173,
+          36.102374255657196
+        ],
+        [
+          239.07384753227234,
+          36.102374255657196
+        ],
+        [
+          239.07384753227234,
+          64.40772287547588
+        ],
+        [
+          84.45061534643173,
+          64.40772287547588
+        ]
+      ]
+    },
+    {
+      "title": "Figure S5. Analyses of cell stress pathways in myoblasts and MEFs from Ku80 \nmutant, heterozygous and wildtype muscle progenitors.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          84.9599609375,
+          549.8053205013275
+        ],
+        [
+          512.870361328125,
+          549.8053205013275
+        ],
+        [
+          512.870361328125,
+          581.5879144668579
+        ],
+        [
+          84.24151003360748,
+          581.5879144668579
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1850,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          26
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/emmm0004-0910-SD2"
+}

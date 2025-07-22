@@ -1,0 +1,1420 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Telomerase gene therapy in adult and old\nmice delays aging and increases longevity\nwithout increasing cancer",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.899216651916504,
+          103.22210831940174
+        ],
+        [
+          512.3151745796204,
+          101.67718644440174
+        ],
+        [
+          512.3151745796204,
+          185.32794189453125
+        ],
+        [
+          54.899216651916504,
+          185.32794189453125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.69289779663086,
+          535.775162756443
+        ],
+        [
+          132.17800378799438,
+          534.230240881443
+        ],
+        [
+          131.01394128799438,
+          548.9996185302734
+        ],
+        [
+          55.66050386428833,
+          548.9996185302734
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          305.5871880054474,
+          181.91637773811817
+        ],
+        [
+          347.50125336647034,
+          181.91637773811817
+        ],
+        [
+          347.50125336647034,
+          193.87530517578125
+        ],
+        [
+          305.5871880054474,
+          193.87530517578125
+        ]
+      ]
+    },
+    {
+      "title": "AAV9 mediated expression of mTERT leads to a stable and\nefficient systemic transduction of mouse tissues",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.1417236328125,
+          206.27066752314568
+        ],
+        [
+          531.675493478775,
+          206.27066752314568
+        ],
+        [
+          530.511430978775,
+          227.783935546875
+        ],
+        [
+          306.1417236328125,
+          227.783935546875
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1. AAV9-mediated mTERT expression.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.138393342494965,
+          643.9397787451744
+        ],
+        [
+          200.10532069206238,
+          642.3948568701744
+        ],
+        [
+          200.10532069206238,
+          651.9111022949219
+        ],
+        [
+          55.138393342494965,
+          652.7902650237083
+        ]
+      ]
+    },
+    {
+      "title": "mTERT ectopic expression late in life decreases the incidence\nof age-related osteoporosis and glucose intolerance",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          306.0429656505585,
+          160.94450411200523
+        ],
+        [
+          538.7806513309479,
+          160.94450411200523
+        ],
+        [
+          538.7806513309479,
+          182.69208005070686
+        ],
+        [
+          306.0429656505585,
+          182.69208005070686
+        ]
+      ]
+    },
+    {
+      "title": "Figure 2. Delayed aging in AAV9-mTERT treated\nmice.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          380.91961669921875,
+          303.9655712544918
+        ],
+        [
+          536.2650997638702,
+          303.9655712544918
+        ],
+        [
+          535.1010372638702,
+          323.27039977908134
+        ],
+        [
+          380.91961669921875,
+          323.27039977908134
+        ]
+      ]
+    },
+    {
+      "title": "mTERT ectopic expression late in life improves scores\nin neuromuscular and object-recognition tests",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.69289779663086,
+          573.93296033144
+        ],
+        [
+          264.01923656463623,
+          572.38803845644
+        ],
+        [
+          262.85517406463623,
+          594.4006195068359
+        ],
+        [
+          55.95858883857727,
+          594.9203807711601
+        ]
+      ]
+    },
+    {
+      "title": "A TERT-based gene therapy late in life significantly extends\nlifespan without increasing cancer",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          306.1415100097656,
+          252.75259920954704
+        ],
+        [
+          534.4034807682037,
+          251.20767733454704
+        ],
+        [
+          533.2394182682037,
+          273.62286376953125
+        ],
+        [
+          306.1415100097656,
+          273.74803468585014
+        ]
+      ]
+    },
+    {
+      "title": "Figure 3. Increased median and maximum\nlongevity of AAV9-mTERT treated mice.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          375.13690185546875,
+          76.86882715672255
+        ],
+        [
+          512.5127966403961,
+          75.32390528172255
+        ],
+        [
+          512.5127966403961,
+          93.93865966796875
+        ],
+        [
+          375.13690185546875,
+          94.55879082530737
+        ]
+      ]
+    },
+    {
+      "title": "Telomerase expression late in life leads to overall telomere\nlengthening and decreased abundance of short telomeres in\nvarious tissues",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          56.01721292734146,
+          551.5931549072266
+        ],
+        [
+          287.9953787326813,
+          550.3250001072884
+        ],
+        [
+          287.9953787326813,
+          582.9644470214844
+        ],
+        [
+          56.01721292734146,
+          584.0174793601036
+        ]
+      ]
+    },
+    {
+      "title": "AAV9-mTERT treatment late in life increases cyclinD1R cells\nin mouse tissues",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.69289779663086,
+          502.3036804199219
+        ],
+        [
+          287.97063601017,
+          502.3036804199219
+        ],
+        [
+          286.80657351017,
+          525.7454288601875
+        ],
+        [
+          55.73377287387848,
+          527.2903507351875
+        ]
+      ]
+    },
+    {
+      "title": "AAV9-mTERT treatment late in life improves metabolic and\nmitochondrial fitness",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          306.140869140625,
+          160.98691308498383
+        ],
+        [
+          534.8200039863586,
+          159.44199120998383
+        ],
+        [
+          533.6559414863586,
+          181.96728515625
+        ],
+        [
+          305.9016852378845,
+          183.31487196683884
+        ]
+      ]
+    },
+    {
+      "title": "Delayed aging and increased longevity associated with\nincreased TERT expression late in life requires of a\ncatalytically active mTERT",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          306.140869140625,
+          378.38197991251945
+        ],
+        [
+          518.9278225898743,
+          376.83705803751945
+        ],
+        [
+          517.7637600898743,
+          411.1125793457031
+        ],
+        [
+          305.8989143371582,
+          411.70027482509613
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          305.455286026001,
+          652.2353887557983
+        ],
+        [
+          364.4081172943115,
+          650.6904668807983
+        ],
+        [
+          364.4081172943115,
+          663.6326141357422
+        ],
+        [
+          305.455286026001,
+          664.833234667778
+        ]
+      ]
+    },
+    {
+      "title": "Figure 4. AAV9-mTERT treatment decreases the abundance of short telomeres and increases active b-catenin and cyclinD1-positive cells in AAV9-mTERT\ntreated mice.\n3",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          42.51969909667969,
+          612.0633239746094
+        ],
+        [
+          541.227854013443,
+          612.0633239746094
+        ],
+        [
+          541.227854013443,
+          631.8988952636719
+        ],
+        [
+          42.51969909667969,
+          632.3290081620216
+        ]
+      ]
+    },
+    {
+      "title": "The paper explained",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          68.03150177001953,
+          84.4320396259427
+        ],
+        [
+          218.91440796852112,
+          82.8871177509427
+        ],
+        [
+          218.91440796852112,
+          101.11126708984375
+        ],
+        [
+          68.03150177001953,
+          102.4734567552805
+        ]
+      ]
+    },
+    {
+      "title": "PROBLEM:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          67.82910090684891,
+          123.24224853515625
+        ],
+        [
+          113.00522691011429,
+          121.73066653311253
+        ],
+        [
+          112.60018920898438,
+          133.204833984375
+        ],
+        [
+          66.66503840684891,
+          133.6754284054041
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          67.85593068599701,
+          224.83587646484375
+        ],
+        [
+          107.93573081493378,
+          223.6978558599949
+        ],
+        [
+          107.82809448242188,
+          234.7984619140625
+        ],
+        [
+          66.69186818599701,
+          235.63931742310524
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.69289779663086,
+          515.3980166316032
+        ],
+        [
+          183.1320972442627,
+          513.8530947566032
+        ],
+        [
+          181.9680347442627,
+          526.095703125
+        ],
+        [
+          55.81023907661438,
+          526.4641419053078
+        ]
+      ]
+    },
+    {
+      "title": "Mice",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.69289779663086,
+          539.7996069192886
+        ],
+        [
+          76.02520322799683,
+          538.2546850442886
+        ],
+        [
+          74.86114072799683,
+          548.6094512939453
+        ],
+        [
+          56.115251302719116,
+          549.709209561348
+        ]
+      ]
+    },
+    {
+      "title": "Recombinant AAV vectors",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.60987928509712,
+          689.0734405517578
+        ],
+        [
+          154.5243945121765,
+          687.8115901947021
+        ],
+        [
+          153.3603320121765,
+          697.7866332530975
+        ],
+        [
+          55.44581678509712,
+          699.3315551280975
+        ]
+      ]
+    },
+    {
+      "title": "IMPACT:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          306.1417236328125,
+          235.83428955078125
+        ],
+        [
+          344.54090118408203,
+          234.80547073483467
+        ],
+        [
+          343.37683868408203,
+          245.796875
+        ],
+        [
+          306.1417236328125,
+          247.2057224214077
+        ]
+      ]
+    },
+    {
+      "title": "Measurement of virus transduction efficiency",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          306.1417236328125,
+          516.1280921697617
+        ],
+        [
+          481.0685796737671,
+          514.5831702947617
+        ],
+        [
+          479.9045171737671,
+          525.6488342285156
+        ],
+        [
+          305.9637818336487,
+          526.788468003273
+        ]
+      ]
+    },
+    {
+      "title": "Telomere Q-FISH analysis on paraffin sections",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          306.1417236328125,
+          688.937089920044
+        ],
+        [
+          481.4057414531708,
+          687.392168045044
+        ],
+        [
+          480.2416789531708,
+          698.0279330015182
+        ],
+        [
+          305.4185893535614,
+          699.5728548765182
+        ]
+      ]
+    },
+    {
+      "title": "Bone density",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          56.01808327436447,
+          138.0357733219862
+        ],
+        [
+          106.33302229642868,
+          138.0357733219862
+        ],
+        [
+          106.33302229642868,
+          147.62054443359375
+        ],
+        [
+          56.01808327436447,
+          147.62054443359375
+        ]
+      ]
+    },
+    {
+      "title": "Skin measurements",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          56.177685379981995,
+          195.63403034210205
+        ],
+        [
+          131.14834773540497,
+          195.63403034210205
+        ],
+        [
+          131.14834773540497,
+          205.1522634625435
+        ],
+        [
+          56.177685379981995,
+          205.1522634625435
+        ]
+      ]
+    },
+    {
+      "title": "Intraperitoneal glucose tolerance tests, insulin and IGF-1",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          56.40779447555542,
+          286.85080432891846
+        ],
+        [
+          273.64648246765137,
+          286.85080432891846
+        ],
+        [
+          273.3620300292969,
+          296.5528259277344
+        ],
+        [
+          55.24373197555542,
+          296.5528259277344
+        ]
+      ]
+    },
+    {
+      "title": "Neuromuscular coordination",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          56.69289779663086,
+          424.03136146068573
+        ],
+        [
+          166.023419380188,
+          424.03136146068573
+        ],
+        [
+          165.03846740722656,
+          434.0330505371094
+        ],
+        [
+          55.59834510087967,
+          434.0330505371094
+        ]
+      ]
+    },
+    {
+      "title": "TRAP assay",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          56.69289779663086,
+          517.1247855424881
+        ],
+        [
+          98.60118103027344,
+          515.5798636674881
+        ],
+        [
+          98.60118103027344,
+          525.7054443359375
+        ],
+        [
+          55.64275500178337,
+          526.8740874528885
+        ]
+      ]
+    },
+    {
+      "title": "Statistical analysis",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          56.65069234371185,
+          574.1675651669502
+        ],
+        [
+          128.1152594089508,
+          572.6226432919502
+        ],
+        [
+          126.9511969089508,
+          582.9653625488281
+        ],
+        [
+          55.48662984371185,
+          583.7614696621895
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          306.1417236328125,
+          172.01875050365925
+        ],
+        [
+          404.074697971344,
+          170.47382862865925
+        ],
+        [
+          402.910635471344,
+          182.31396484375
+        ],
+        [
+          306.1417236328125,
+          182.9818825572729
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          306.1417236328125,
+          263.8320671617985
+        ],
+        [
+          395.19317960739136,
+          262.2871452867985
+        ],
+        [
+          394.5020446777344,
+          273.98651123046875
+        ],
+        [
+          305.11467838287354,
+          274.4479831159115
+        ]
+      ]
+    },
+    {
+      "title": "For more information",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          306.1417236328125,
+          411.126021027565
+        ],
+        [
+          427.40426111221313,
+          409.581099152565
+        ],
+        [
+          426.24019861221313,
+          424.3298645019531
+        ],
+        [
+          305.6284317970276,
+          425.0039154291153
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          306.1417236328125,
+          501.1134948730469
+        ],
+        [
+          356.90416288375854,
+          499.9966052174568
+        ],
+        [
+          355.8252258300781,
+          511.07611083984375
+        ],
+        [
+          305.71226930618286,
+          512.0778113007545
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 4640,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          242
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          14
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          235
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          12
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          284
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          266
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          411
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "ListItem",
+          38
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          319
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/10.1002_emmm.201200245"
+}

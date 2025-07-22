@@ -1,0 +1,60 @@
+{
+  "table_of_contents": [
+    {
+      "title": "mutant",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          196.47848963737488,
+          346.0
+        ],
+        [
+          255.0518238544464,
+          346.0
+        ],
+        [
+          255.0518238544464,
+          359.85219955444336
+        ],
+        [
+          196.47848963737488,
+          359.85219955444336
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          17
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 943,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/EVL3-3-207-g004"
+}

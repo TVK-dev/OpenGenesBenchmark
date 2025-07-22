@@ -1,0 +1,129 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Population genetic\ntheory",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          129.18055653572083,
+          0.0
+        ],
+        [
+          128.43836903572083,
+          33.41796672344208
+        ],
+        [
+          0.0,
+          33.69531047344208
+        ]
+      ]
+    },
+    {
+      "title": "Antagonistic Pleiotropy",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          151.45515084266663,
+          0.0
+        ],
+        [
+          315.0,
+          0.0
+        ],
+        [
+          315.0,
+          15.954007089138031
+        ],
+        [
+          151.45515084266663,
+          16.23135083913803
+        ]
+      ]
+    },
+    {
+      "title": "Physiological\nEnergy\ntheories\ntrade-offs",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          17.0,
+          78.0
+        ],
+        [
+          192.33346939086914,
+          77.78650879859924
+        ],
+        [
+          192.33346939086914,
+          111.01826214790344
+        ],
+        [
+          16.0,
+          111.29560589790344
+        ]
+      ]
+    },
+    {
+      "title": "(Disposable Soma)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.0,
+          125.66729867458344
+        ],
+        [
+          224.2834770679474,
+          125.38995492458344
+        ],
+        [
+          224.2834770679474,
+          141.57314217090607
+        ],
+        [
+          90.0,
+          141.85048592090607
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          11
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1334,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/EVL3-3-207-g001"
+}

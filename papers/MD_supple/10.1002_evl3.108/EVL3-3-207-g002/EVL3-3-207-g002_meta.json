@@ -1,0 +1,83 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Unmated",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          175.82860827445984,
+          0.0
+        ],
+        [
+          262.02985405921936,
+          0.0
+        ],
+        [
+          262.02985405921936,
+          17.85813721269369
+        ],
+        [
+          175.82860827445984,
+          17.85813721269369
+        ]
+      ]
+    },
+    {
+      "title": "Mated",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          569.8490166664124,
+          0.0
+        ],
+        [
+          634.2577910423279,
+          0.0
+        ],
+        [
+          634.2577910423279,
+          16.87791607901454
+        ],
+        [
+          569.8490166664124,
+          16.87791607901454
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1087,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/EVL3-3-207-g002"
+}

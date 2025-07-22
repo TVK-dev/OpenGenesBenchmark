@@ -1,0 +1,91 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Loss of a single allele for Ku80 leads to progenitor \ndysfunction and accelerated aging in skeletal muscle",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          106.80010223388672,
+          149.4638409614563
+        ],
+        [
+          460.74957275390625,
+          147.8193097114563
+        ],
+        [
+          460.74957275390625,
+          180.09699952602386
+        ],
+        [
+          105.84245920181274,
+          181.74153077602386
+        ]
+      ]
+    },
+    {
+      "title": "Transaction Report:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          106.45268365740776,
+          342.18859511613846
+        ],
+        [
+          203.14551755785942,
+          340.54406386613846
+        ],
+        [
+          201.98340818285942,
+          353.0075988769531
+        ],
+        [
+          105.29057428240776,
+          353.89453798532486
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1705,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/emmm0004-0910-SD1"
+}

@@ -1,0 +1,1353 @@
+{
+  "table_of_contents": [
+    {
+      "title": "NIH Public Access",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          94.63365173339844,
+          20.2774658203125
+        ],
+        [
+          263.263671875,
+          20.2774658203125
+        ],
+        [
+          263.263671875,
+          45.953353106975555
+        ],
+        [
+          94.63365173339844,
+          45.953353106975555
+        ]
+      ]
+    },
+    {
+      "title": "The Reduction of SIRT1 in Livers of Old Mice Leads to Impaired\nBody Homeostasis and to Inhibition of Liver Proliferation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          88.28994047641754,
+          126.54886043071747
+        ],
+        [
+          515.1262836456299,
+          126.54886043071747
+        ],
+        [
+          515.1262836456299,
+          163.6349619626999
+        ],
+        [
+          88.28994047641754,
+          163.6349619626999
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.9155844449997,
+          225.0030426979065
+        ],
+        [
+          140.9090974330902,
+          225.0030426979065
+        ],
+        [
+          140.9090974330902,
+          238.725830078125
+        ],
+        [
+          89.9155844449997,
+          238.725830078125
+        ]
+      ]
+    },
+    {
+      "title": "Materials and Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          88.91540211439133,
+          158.725830078125
+        ],
+        [
+          220.89472031593323,
+          158.725830078125
+        ],
+        [
+          220.89472031593323,
+          170.94262218475342
+        ],
+        [
+          88.91540211439133,
+          170.94262218475342
+        ]
+      ]
+    },
+    {
+      "title": "Antibodies and Reagents",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          85.31307685375214,
+          178.39068746566772
+        ],
+        [
+          210.01998901367188,
+          178.39068746566772
+        ],
+        [
+          210.01998901367188,
+          188.77154541015625
+        ],
+        [
+          85.31307685375214,
+          188.77154541015625
+        ]
+      ]
+    },
+    {
+      "title": "Animals, Treatments of Old Mice with Growth Hormone, and partial hepatectomy",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          90.0,
+          290.77154541015625
+        ],
+        [
+          473.6253604888916,
+          290.77154541015625
+        ],
+        [
+          472.85986328125,
+          301.18956327438354
+        ],
+        [
+          89.32343637943268,
+          301.18956327438354
+        ]
+      ]
+    },
+    {
+      "title": "Cotransfection Studies",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          90.0,
+          378.77154541015625
+        ],
+        [
+          199.464928150177,
+          378.77154541015625
+        ],
+        [
+          199.464928150177,
+          388.96990442276
+        ],
+        [
+          90.0,
+          388.96990442276
+        ]
+      ]
+    },
+    {
+      "title": "Protein Isolation and Western Blotting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          90.0,
+          466.77154541015625
+        ],
+        [
+          272.88512349128723,
+          466.77154541015625
+        ],
+        [
+          272.88512349128723,
+          477.0016222000122
+        ],
+        [
+          90.0,
+          477.0016222000122
+        ]
+      ]
+    },
+    {
+      "title": "Chromatin Immunoprecipitation Assay",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          90.0,
+          542.7715454101562
+        ],
+        [
+          274.2592148780823,
+          542.7715454101562
+        ],
+        [
+          274.2592148780823,
+          553.3562936782837
+        ],
+        [
+          90.0,
+          553.3562936782837
+        ]
+      ]
+    },
+    {
+      "title": "Real-Time Quantitative Reverse-Transcriptase PCR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          87.11028617620468,
+          642.7715454101562
+        ],
+        [
+          332.85003662109375,
+          642.7715454101562
+        ],
+        [
+          332.85003662109375,
+          653.1579608917236
+        ],
+        [
+          87.11028617620468,
+          653.1579608917236
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          90.0,
+          110.725830078125
+        ],
+        [
+          134.2960113286972,
+          110.725830078125
+        ],
+        [
+          134.2960113286972,
+          122.725830078125
+        ],
+        [
+          90.0,
+          123.37576746940613
+        ]
+      ]
+    },
+    {
+      "title": "Old Mice Fail to Activate SIRT1 After PH",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          90.0,
+          130.77154541015625
+        ],
+        [
+          280.23949813842773,
+          130.02025365829468
+        ],
+        [
+          279.489990234375,
+          140.77154541015625
+        ],
+        [
+          89.8487840294838,
+          141.94209122657776
+        ]
+      ]
+    },
+    {
+      "title": "Elevation of SIRT1 After PH in Young Mice Is Required for Support of Glucose\nHomeostasis and for Liver Proliferation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.10611844062805,
+          326.77154541015625
+        ],
+        [
+          460.06982421875,
+          326.77154541015625
+        ],
+        [
+          460.06982421875,
+          348.77154541015625
+        ],
+        [
+          89.10611844062805,
+          350.1693434715271
+        ]
+      ]
+    },
+    {
+      "title": "HDAC1-C/EBP\u03b2 Complexes Repress the SIRT1 Promoter in Livers of Old Mice",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.43029880523682,
+          510.77154541015625
+        ],
+        [
+          460.2930006980896,
+          510.0047535896301
+        ],
+        [
+          460.2930006980896,
+          520.7715454101562
+        ],
+        [
+          89.43029880523682,
+          522.1092581748962
+        ]
+      ]
+    },
+    {
+      "title": "Elimination of C/EBP\u03b2-HDAC1 Complexes Correct Levels of SIRT1",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          90.0,
+          214.77154541015625
+        ],
+        [
+          405.144287109375,
+          214.14508295059204
+        ],
+        [
+          405.144287109375,
+          224.77154541015625
+        ],
+        [
+          90.0,
+          225.59766054153442
+        ]
+      ]
+    },
+    {
+      "title": "The C/EBP\u03b2-HDAC1 Complex Blocks Activation of the SIRT1 Promoter in Livers of Old\nMice",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          87.18279540538788,
+          374.7715148925781
+        ],
+        [
+          501.3259835243225,
+          374.71326184272766
+        ],
+        [
+          501.3259835243225,
+          397.28279972076416
+        ],
+        [
+          87.18279540538788,
+          398.82967472076416
+        ]
+      ]
+    },
+    {
+      "title": "Ectopic Expression of SIRT1 in Livers of Old Mice Corrects Levels of Glucose and\nTriglycerides and Accelerates Liver Proliferation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          89.97327446937561,
+          60.77154541015625
+        ],
+        [
+          482.7150321006775,
+          60.77154541015625
+        ],
+        [
+          482.7150321006775,
+          82.88406729698181
+        ],
+        [
+          89.97327446937561,
+          84.43094229698181
+        ]
+      ]
+    },
+    {
+      "title": "Ectopic Expression of SIRT1 in Livers of Old Mice Down-regulates C/EBP\u03b1 and Releases\nRepression of E2F Targets",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          90.0,
+          256.77154541015625
+        ],
+        [
+          511.3712339401245,
+          256.45877981185913
+        ],
+        [
+          511.3712339401245,
+          278.77154541015625
+        ],
+        [
+          90.0,
+          279.9171051979065
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          89.99641978740692,
+          538.7258148193359
+        ],
+        [
+          154.02000427246094,
+          538.7258148193359
+        ],
+        [
+          154.02000427246094,
+          550.7258148193359
+        ],
+        [
+          89.99641978740692,
+          552.1118731498718
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary Material",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          89.73323982954025,
+          230.725830078125
+        ],
+        [
+          225.37197875976562,
+          230.725830078125
+        ],
+        [
+          225.37197875976562,
+          243.00448894500732
+        ],
+        [
+          89.73323982954025,
+          243.00448894500732
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          89.18670755624771,
+          277.725830078125
+        ],
+        [
+          196.5914433002472,
+          277.725830078125
+        ],
+        [
+          196.5914433002472,
+          289.7258605957031
+        ],
+        [
+          89.18670755624771,
+          289.7258605957031
+        ]
+      ]
+    },
+    {
+      "title": "Abbreviations",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          89.23426580429077,
+          360.7258605957031
+        ],
+        [
+          170.01597595214844,
+          360.7258605957031
+        ],
+        [
+          170.01597595214844,
+          372.9150810241699
+        ],
+        [
+          89.23426580429077,
+          372.9150810241699
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          139.94360572099686,
+          78.57396125793457
+        ],
+        [
+          172.47588229179382,
+          77.02708625793457
+        ],
+        [
+          172.47588229179382,
+          86.87117207050323
+        ],
+        [
+          139.94360572099686,
+          88.41804707050323
+        ]
+      ]
+    },
+    {
+      "title": "TGs triglycerides",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          138.0,
+          78.35345458984375
+        ],
+        [
+          276.3559875488281,
+          77.0119269490242
+        ],
+        [
+          276.3559875488281,
+          88.7730712890625
+        ],
+        [
+          138.0,
+          88.7730712890625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          88.96759307384491,
+          103.725830078125
+        ],
+        [
+          155.51018178462982,
+          103.32589673995972
+        ],
+        [
+          154.69200134277344,
+          115.725830078125
+        ],
+        [
+          87.77228057384491,
+          116.28612041473389
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 1.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          148.93592655658722,
+          316.10049319267273
+        ],
+        [
+          173.75100708007812,
+          316.10049319267273
+        ],
+        [
+          173.75100708007812,
+          325.907155752182
+        ],
+        [
+          148.93592655658722,
+          325.907155752182
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 2.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          150.0,
+          295.4038646221161
+        ],
+        [
+          176.07263553142548,
+          295.4038646221161
+        ],
+        [
+          176.07263553142548,
+          304.620724439621
+        ],
+        [
+          150.0,
+          304.620724439621
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 3.",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          150.0,
+          298.0474498271942
+        ],
+        [
+          174.63029372692108,
+          298.0474498271942
+        ],
+        [
+          174.63029372692108,
+          308.2583920955658
+        ],
+        [
+          150.0,
+          308.2583920955658
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 4.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          148.53291714191437,
+          349.6892395019531
+        ],
+        [
+          173.75100708007812,
+          349.6892395019531
+        ],
+        [
+          173.75100708007812,
+          360.24322056770325
+        ],
+        [
+          148.53291714191437,
+          360.24322056770325
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 5.",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          148.99776595830917,
+          316.8377230167389
+        ],
+        [
+          173.75100708007812,
+          316.8377230167389
+        ],
+        [
+          173.75100708007812,
+          326.9272964000702
+        ],
+        [
+          148.99776595830917,
+          326.9272964000702
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 6.",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          150.0,
+          289.209228515625
+        ],
+        [
+          173.75100708007812,
+          289.209228515625
+        ],
+        [
+          173.75100708007812,
+          299.0428304672241
+        ],
+        [
+          150.0,
+          299.0428304672241
+        ]
+      ]
+    },
+    {
+      "title": "Fig. 7.",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          149.73112052679062,
+          315.8492126464844
+        ],
+        [
+          173.75100708007812,
+          315.8492126464844
+        ],
+        [
+          173.75100708007812,
+          325.730908870697
+        ],
+        [
+          149.73112052679062,
+          325.730908870697
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 4362,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "TableCell",
+          68
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2189,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          26
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/10.1002_hep.24471"
+}

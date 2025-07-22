@@ -1,0 +1,1355 @@
+{
+  "table_of_contents": [
+    {
+      "title": "HHS Public Access",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          131.4848175048828,
+          20.44234871864319
+        ],
+        [
+          334.299556016922,
+          20.44234871864319
+        ],
+        [
+          334.299556016922,
+          42.78912353515625
+        ],
+        [
+          131.4848175048828,
+          42.78912353515625
+        ]
+      ]
+    },
+    {
+      "title": "Aging Promotes SIRT3-dependent Cartilage SOD2 Acetylation \nand Osteoarthritis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          87.94193994998932,
+          126.68822693824768
+        ],
+        [
+          506.27145767211914,
+          126.68822693824768
+        ],
+        [
+          506.27145767211914,
+          164.7706060409546
+        ],
+        [
+          87.94193994998932,
+          164.7706060409546
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.68344730138779,
+          386.3296000957489
+        ],
+        [
+          141.0692998766899,
+          386.3296000957489
+        ],
+        [
+          141.0692998766899,
+          399.746196269989
+        ],
+        [
+          89.68344730138779,
+          399.746196269989
+        ]
+      ]
+    },
+    {
+      "title": "Keywords",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          89.64569252729416,
+          178.85595703125
+        ],
+        [
+          138.44910031557083,
+          178.85595703125
+        ],
+        [
+          138.44910031557083,
+          189.05393064022064
+        ],
+        [
+          89.64569252729416,
+          189.05393064022064
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          88.80772805213928,
+          231.47314453125
+        ],
+        [
+          159.86551415920258,
+          231.47314453125
+        ],
+        [
+          159.86551415920258,
+          243.6610894203186
+        ],
+        [
+          88.80772805213928,
+          243.6610894203186
+        ]
+      ]
+    },
+    {
+      "title": "Materials and Methods",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.99805450439453,
+          188.703125
+        ],
+        [
+          219.35804748535156,
+          188.703125
+        ],
+        [
+          219.35804748535156,
+          201.08003640174866
+        ],
+        [
+          89.99805450439453,
+          201.08003640174866
+        ]
+      ]
+    },
+    {
+      "title": "Animals",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.9980697631836,
+          210.5899658203125
+        ],
+        [
+          128.91081261634827,
+          210.5899658203125
+        ],
+        [
+          128.91081261634827,
+          221.45931673049927
+        ],
+        [
+          89.9980697631836,
+          221.45931673049927
+        ]
+      ]
+    },
+    {
+      "title": "Human OA Cartilage Patient Information",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.99819946289062,
+          394.270387172699
+        ],
+        [
+          280.53551745414734,
+          394.270387172699
+        ],
+        [
+          280.53551745414734,
+          404.97398042678833
+        ],
+        [
+          89.99819946289062,
+          404.97398042678833
+        ]
+      ]
+    },
+    {
+      "title": "Histology and Immunohistochemistry",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.99829864501953,
+          578.5523042678833
+        ],
+        [
+          270.76786494255066,
+          578.5523042678833
+        ],
+        [
+          269.57255244255066,
+          588.868706703186
+        ],
+        [
+          89.99829864501953,
+          588.868706703186
+        ]
+      ]
+    },
+    {
+      "title": "RNA and Protein Extraction",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          90.0,
+          102.5859375
+        ],
+        [
+          221.0795180797577,
+          102.5859375
+        ],
+        [
+          221.0795180797577,
+          113.64154386520386
+        ],
+        [
+          90.0,
+          113.64154386520386
+        ]
+      ]
+    },
+    {
+      "title": "Glutathione Content",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.99993896484375,
+          202.19444918632507
+        ],
+        [
+          186.1099395751953,
+          202.19444918632507
+        ],
+        [
+          186.1099395751953,
+          213.10834908485413
+        ],
+        [
+          89.99993896484375,
+          213.10834908485413
+        ]
+      ]
+    },
+    {
+      "title": "Quantitative Mass Spectrometry Analysis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          90.0,
+          343.85995531082153
+        ],
+        [
+          286.98930394649506,
+          343.85995531082153
+        ],
+        [
+          286.98930394649506,
+          354.9168920516968
+        ],
+        [
+          90.0,
+          354.9168920516968
+        ]
+      ]
+    },
+    {
+      "title": "Quantitative RT-PCR",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.57978582382202,
+          499.8881778717041
+        ],
+        [
+          186.93994140625,
+          499.8881778717041
+        ],
+        [
+          186.93994140625,
+          510.84083461761475
+        ],
+        [
+          89.57978582382202,
+          510.84083461761475
+        ]
+      ]
+    },
+    {
+      "title": "Western Blot Analysis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          89.86189788579941,
+          62.5859375
+        ],
+        [
+          195.48170828819275,
+          61.63592666387558
+        ],
+        [
+          195.48170828819275,
+          72.5859375
+        ],
+        [
+          89.86189788579941,
+          73.17248529195786
+        ]
+      ]
+    },
+    {
+      "title": "Superoxide Dismutase Activity",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          89.99993896484375,
+          190.58599853515625
+        ],
+        [
+          236.0099334716797,
+          189.96888256072998
+        ],
+        [
+          236.0099334716797,
+          200.58599853515625
+        ],
+        [
+          89.81587171554565,
+          201.48740816116333
+        ]
+      ]
+    },
+    {
+      "title": "In vitro acetylation and SIRT3-dependent deacetylation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          90.0,
+          318.5791931152344
+        ],
+        [
+          350.697566986084,
+          318.3305461406708
+        ],
+        [
+          350.219970703125,
+          328.5859680175781
+        ],
+        [
+          90.0,
+          329.5207951068878
+        ]
+      ]
+    },
+    {
+      "title": "Statistical Analyses",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          90.00399780273438,
+          502.5859680175781
+        ],
+        [
+          183.78399658203125,
+          502.3125343322754
+        ],
+        [
+          183.78399658203125,
+          512.5859680175781
+        ],
+        [
+          90.00399780273438,
+          513.9053163528442
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          89.91547501087189,
+          64.703125
+        ],
+        [
+          135.1435604095459,
+          64.22323536872864
+        ],
+        [
+          135.1435604095459,
+          76.703125
+        ],
+        [
+          89.91547501087189,
+          77.60734140872955
+        ]
+      ]
+    },
+    {
+      "title": "Aging induces moderate OA pathology and cartilage oxidative stress in F344BN rats",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          90.00397491455078,
+          85.89731776714325
+        ],
+        [
+          494.08159017562866,
+          85.89731776714325
+        ],
+        [
+          494.08159017562866,
+          96.5899658203125
+        ],
+        [
+          90.00397491455078,
+          96.5899658203125
+        ]
+      ]
+    },
+    {
+      "title": "Cartilage SOD2 expression increases with age and counteracts an aging-dependent \ndecline in specific-activity due to elevated post-translational acetylation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          88.35178899765015,
+          62.5859375
+        ],
+        [
+          490.6297302246094,
+          62.48809343576431
+        ],
+        [
+          490.6297302246094,
+          86.70708686113358
+        ],
+        [
+          88.35178899765015,
+          88.25396186113358
+        ]
+      ]
+    },
+    {
+      "title": "Age-dependent loss of SIRT3 expression impairs cartilage SOD2 activity and induces OA",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          89.99982452392578,
+          648.5858917236328
+        ],
+        [
+          512.2096557617188,
+          648.3682565689087
+        ],
+        [
+          512.2096557617188,
+          658.678994178772
+        ],
+        [
+          89.99982452392578,
+          660.225869178772
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          89.5477945804596,
+          174.703125
+        ],
+        [
+          154.86869716644287,
+          174.703125
+        ],
+        [
+          154.86869716644287,
+          187.26025807857513
+        ],
+        [
+          89.5477945804596,
+          187.26025807857513
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary Material",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          89.9999771118164,
+          64.3385853767395
+        ],
+        [
+          226.60141825675964,
+          62.7917103767395
+        ],
+        [
+          226.60141825675964,
+          76.703125
+        ],
+        [
+          89.9999771118164,
+          78.06107032299042
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          89.9999771118164,
+          115.7071533203125
+        ],
+        [
+          197.85352885723114,
+          114.16579985618591
+        ],
+        [
+          196.65821635723114,
+          127.7071533203125
+        ],
+        [
+          89.35380434989929,
+          128.20847725868225
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          90.0000228881836,
+          210.20709228515625
+        ],
+        [
+          155.75817775726318,
+          208.79869151115417
+        ],
+        [
+          154.572021484375,
+          222.20709228515625
+        ],
+        [
+          90.0000228881836,
+          222.749929189682
+        ]
+      ]
+    },
+    {
+      "title": "Figure 4. Loss of SIRT3 protein with aging impairs cartilage SOD2 activity",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          148.78569173812866,
+          339.6180396080017
+        ],
+        [
+          437.22900390625,
+          339.6180396080017
+        ],
+        [
+          437.22900390625,
+          349.3291931152344
+        ],
+        [
+          147.59037923812866,
+          349.3291931152344
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Footnote",
+          5
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3846,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "PageHeader",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/10.1002_art.39618"
+}
