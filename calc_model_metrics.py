@@ -170,14 +170,18 @@ def send_request(req, temperature=0.5,max_tokens=75):
         base_url="http://80.209.242.40:8000/v1",
         api_key="dummy-key"
     )
-    response = client.chat.completions.create(
-        model="llama-3.3-70b-instruct",
-        temperature=temperature,
-        max_tokens=max_tokens,   #2048
-        messages=[
-            {"role": "user", "content": req}
-        ]
-    )    
+    
+    try:
+        response = client.chat.completions.create(
+            model="llama-3.3-70b-instruct",
+            temperature=temperature,
+            max_tokens=max_tokens,   #2048
+            messages=[
+                {"role": "user", "content": req}
+            ]
+        )  
+    except Exception as e:
+        return " "
     return response.choices[0].message.content
 
 
