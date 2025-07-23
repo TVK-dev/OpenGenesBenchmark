@@ -233,7 +233,7 @@ def calc_metric_dev(articles, genes):
             gmetrics.append(gmetric)
             
     #print(gmetrics)
-    metric = np.sum(gmetrics)
+    metric = np.mean(gmetrics)
     #print(metric)
     return metric
 
