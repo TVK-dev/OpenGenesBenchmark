@@ -108,7 +108,7 @@ def make_list_genes_articles(genes, articles, r):
                 if f1 and f2:    
                     lg_pair.append([genes[i],genes[j]])
                     la_pair.append(la)      
-    return lg, la
+    return lg_pair, la_pair
 
 
 def prepare_request_nart(g, la, long=False):
