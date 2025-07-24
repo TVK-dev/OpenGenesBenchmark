@@ -241,7 +241,6 @@ def calc_metric_dev(articles, genes):
     #print(metric)
     return metric
 
-# наличие в результате ссылок на гены упомянутые в других статьях
 def calc_metric_crossgenes(articles, genes, filename="age_related_processes_change.json"):
     gm = check_genes(articles, genes)
     #узнали важность генов
@@ -251,25 +250,12 @@ def calc_metric_crossgenes(articles, genes, filename="age_related_processes_chan
     gmetrics=[]    
     for k in range(len(lgg)):    
         lg = lgg[k]; la = laa[k]
-        #print(lg[0])
-        req = prepare_request_nart(lg[0],la)
-        resp = send_request(req, temperature=0)
-        v = convert_to_number(resp)
-        #print(v)
-        #print(lg[1])
-        req = prepare_request_nart(lg[1],la)
-        resp = send_request(req, temperature=0)
-        v = convert_to_number(resp)
-        #print(v)
-
-        #проверили что в выдаче есть общие гены
+        print(lg[0])
         s=0
-        #1 ген- все статьи
-        #print(lg)
         req = prepare_request_cross(lg[0], la, long=False)
-        resp = send_request(req,max_tokens=75)
+        resp = send_request(req,max_tokens=75,temperature=0)
         v = unidecode(resp)
-        #print(v)
+        print(v)
         if lg[1] in v:
             s=s+.5
         if lg[0] in v:
@@ -279,5 +265,3 @@ def calc_metric_crossgenes(articles, genes, filename="age_related_processes_chan
     metric = np.mean(gmetrics)
     #print(metric)
     return s
-
-
